@@ -5,3 +5,7 @@ The "Kali Linux Debian Bluetooth Troubleshooter" project aims to provide a compr
 
 ## How to use it?
 Just download the file and double click on it, then enter your "sudo" password to resolve your problem!
+
+## Why i posted it on github?
+Simply because i tried alot to solve that problem long time ago that faced alot of people who's using Debian systems. I searched google and everything but no luck! after that i created my own way to resolve the issue and worked well!
+Give me a **STAR** if this resolved your problem!
